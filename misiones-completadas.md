@@ -1,6 +1,6 @@
 # Misiones
 
-- Crear la liga de la justicia
+- Crear la liga de la justicia >= != una de asl consideraciones princpales no sa
 - Investigar los trabajos del Joker
 - Tratar de investigar que trama el Flash Reverso
 - Crear la liga de la justicia
